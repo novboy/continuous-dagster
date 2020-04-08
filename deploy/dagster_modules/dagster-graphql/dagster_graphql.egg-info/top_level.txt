@@ -1,2 +1,0 @@
-dagster_graphql
-dagster_graphql_tests

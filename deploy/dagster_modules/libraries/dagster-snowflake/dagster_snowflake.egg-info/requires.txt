@@ -1,2 +1,0 @@
-dagster
-snowflake-connector-python>=2.1.0

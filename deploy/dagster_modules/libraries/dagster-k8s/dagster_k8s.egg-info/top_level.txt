@@ -1,2 +1,0 @@
-dagster_k8s
-dagster_k8s_tests

@@ -1,4 +1,9 @@
-#!/bin/sh
+#!/bin/bash
+
+if [[ -n "$1" ]] && [[ $1 =~ bash  ]] ; then
+    "${@}"
+    exit $?
+fi
 
 touch /etc/crontab /etc/cron.*/*
 

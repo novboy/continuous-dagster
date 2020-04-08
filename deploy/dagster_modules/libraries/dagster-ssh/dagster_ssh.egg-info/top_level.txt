@@ -1,2 +1,0 @@
-dagster_ssh
-dagster_ssh_tests

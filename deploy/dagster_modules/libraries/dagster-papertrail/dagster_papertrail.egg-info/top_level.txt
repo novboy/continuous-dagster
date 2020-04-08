@@ -1,2 +1,0 @@
-dagster_papertrail
-dagster_papertrail_tests

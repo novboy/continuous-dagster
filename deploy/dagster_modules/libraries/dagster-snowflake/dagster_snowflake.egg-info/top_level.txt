@@ -1,2 +1,0 @@
-dagster_snowflake
-dagster_snowflake_tests

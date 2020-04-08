@@ -1,2 +1,0 @@
-dagster_postgres
-dagster_postgres_tests

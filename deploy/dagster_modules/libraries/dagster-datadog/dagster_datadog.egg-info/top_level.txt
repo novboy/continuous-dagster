@@ -1,2 +1,0 @@
-dagster_datadog
-dagster_datadog_tests

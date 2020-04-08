@@ -1,2 +1,0 @@
-dagster_bash
-dagster_bash_tests

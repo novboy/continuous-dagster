@@ -1,3 +1,31 @@
 dagster
 dagit
 dagster-cron
+
+#dagster-airflow
+dagster-aws
+dagster-bash
+dagster-celery
+# dagster-dask
+dagster-datadog
+dagster-dbt
+dagster-gcp
+# dagster-ge
+dagster-github
+# dagster-graphql
+dagster-k8s
+# dagster-pagerduty
+dagster-pandas
+dagster-papertrail
+dagster-postgres
+dagster-prometheus
+# dagster-pyspark # ~ 200 MB 
+dagster-slack
+# dagster-snowflake
+# dagster-spark
+dagster-sqlalchemy
+dagster-ssh
+dagster-twilio
+dagstermill
+
+BeautifulSoup4

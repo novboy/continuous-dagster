@@ -1,2 +1,0 @@
-dagster_aws
-dagster_aws_tests

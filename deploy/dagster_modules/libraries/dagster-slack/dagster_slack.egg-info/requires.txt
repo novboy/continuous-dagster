@@ -1,2 +1,0 @@
-dagster
-slackclient<2.0.0

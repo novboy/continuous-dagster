@@ -1,3 +1,0 @@
-[console_scripts]
-dagster-celery = dagster_celery.cli:main
-

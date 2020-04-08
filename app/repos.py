@@ -4,7 +4,7 @@ from dagster_cron import SystemCronScheduler
 import datetime
 
 
-@schedules(scheduler=SystemCronScheduler)
+@schedules
 def define_scheduler():
     def create_hello_world_schedule(name):
         return ScheduleDefinition(

@@ -1,4 +1,0 @@
-[console_scripts]
-dagit = dagit.dagit:main
-dagit-cli = dagit.cli:main
-

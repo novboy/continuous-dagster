@@ -1,3 +1,0 @@
-[console_scripts]
-dagster-aws = dagster_aws.cli.cli:main
-
